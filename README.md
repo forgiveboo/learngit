@@ -8,5 +8,5 @@
 8. git push -u origin main
 9. 拉取远程仓库 git pull --rebase origin main
 10. 当本地删除了一个或多个文件 
-10.1 git rm 文件
-10.2 git commit -m "删除的文件的信息"
+- git rm 文件
+- git commit -m "删除的文件的信息"
