@@ -6,3 +6,4 @@
 6. 如果出现atal: remote origin already exists错误 则执行git remote rm origin 再重复上一步
 7. git branch -M main
 8. git push -u origin main
+9. 拉取远程仓库 git pull --rebase origin main
