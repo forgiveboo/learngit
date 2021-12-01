@@ -10,7 +10,7 @@
    - git commit -m "添加的文件的信息"
    - git remote add origin 仓库远程SSH地址
    - git branch -M main
-   - git push -u origin main
+   - git push --set-upstream -f origin main
 #### 拉取远程仓库 
    - git pull --rebase origin main
 #### 当本地删除了一个或多个文件 
