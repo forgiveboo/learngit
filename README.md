@@ -17,7 +17,7 @@
       - git rm 文件
       - git commit -m "删除的文件的信息"
 #### 疑难杂症
-   - 如果出现atal: remote origin already exists错误 
+   - atal: remote origin already exists错误 
       - 执行git remote rm origin 再重复上一步
    - git-ssh: connect to host github.com port 22: Connection timed out
       - [解决方法](https://www.jianshu.com/p/c3aac5024877)
