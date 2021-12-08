@@ -1,3 +1,8 @@
+#### Git配置
+```
+git config --global user.name "yourname"
+git config --global user.email "youremail@example.com"
+```
 #### 创建本地仓库
    - git init
 #### 关联远程仓库
